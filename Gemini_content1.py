@@ -2,7 +2,7 @@ from config import key
 import requests  # web
 from mic_to_text1 import mic1
 
-
+#123
 # print(key)
 def chat1(chat):
     messages = []  # list which contain all messages
